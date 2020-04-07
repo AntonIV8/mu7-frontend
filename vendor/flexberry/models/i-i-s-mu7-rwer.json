@@ -1,0 +1,30 @@
+﻿{
+  "name": "IISmu7rwer",
+  "modelName": "i-i-s-mu7-rwer",
+  "className": "rwer",
+  "nameSpace": "IIS.mu7",
+  "parentModelName": null,
+  "parentClassName": null,
+  "attrs": [],
+  "belongsTo": [],
+  "hasMany": [],
+  "projections": [
+    {
+      "name": "rwerE",
+      "modelName": "i-i-s-mu7-rwer",
+      "attrs": [],
+      "belongsTo": [],
+      "hasMany": []
+    },
+    {
+      "name": "rwerL",
+      "modelName": "i-i-s-mu7-rwer",
+      "attrs": [],
+      "belongsTo": [],
+      "hasMany": []
+    }
+  ],
+  "stored": true,
+  "offline": true,
+  "external": false
+}
